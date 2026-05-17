@@ -49,7 +49,5 @@ while True:
     elif user == "bye":
         print("Bot: Goodbye! Have a nice day.")
         break
-
-    # Unknown input
     else:
         print("Bot: Sorry, I don't understand that.")
